@@ -4,3 +4,6 @@ Os códigos inseridos são provenientes do Google Colab, portanto contém a estr
 
 # Bibliotecas Numpy e Plotly
 Atividades Práticas realizadas durante a graduação Tecnologia em Ciência de Dados da UNINTER.
+
+# POO
+Atividade Prática de Programação Orientada a Objetos realizada durante a graduação Tecnologia em Ciência de Dados da UNINTER. 
